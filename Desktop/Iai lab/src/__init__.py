@@ -1,2 +1,0 @@
-# Multi-Modal RAG System
-
